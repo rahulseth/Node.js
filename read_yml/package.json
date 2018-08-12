@@ -1,0 +1,17 @@
+{
+  "name": "read_yml",
+  "version": "1.0.0",
+  "description": "Read YAML file and display in console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Seth",
+  "license": "ISC",
+  "dependencies": {
+    "read-yaml": "^1.1.0"
+  },
+  "devDependencies": {
+    "yaml-lint": "^1.2.4"
+  }
+}
